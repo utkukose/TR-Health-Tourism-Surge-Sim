@@ -58,11 +58,11 @@ The application guides the user through five steps: choose a country, describe t
 
 ## Citation
 
-> Köse, G. & Köse, U. (2026). Health Tourism Infrastructure as a Cross-Border Health Reserve in Extraordinary Situations: A Province-Level Simulation and a Projection to 2047 for Türkiye. *INHSC2026, 5th International / 8th National Health Services Congress*, 13-14 November 2026, Isparta, Türkiye.
+> Köse, G. & Köse, U. (2026). Health Tourism Infrastructure as a Cross-Border Healthcare Reserve in Extraordinary Situations: A Province-Level Simulation and 2047 Projection for Türkiye. *INHSC2026, 5th International / 8th National Health Services Congress*, 13-14 November 2026, Isparta, Türkiye.
 
 ## Authors
 
-**Gamze Köse**, Independent Researcher, MSc in Health Tourism. [github.com/gamze-kose](https://github.com/gamze-kose)
+**Gamze Köse**, Independent Researcher, MSc in Health Tourism. [ORCID 0000-0003-1225-5118](https://orcid.org/0000-0003-1225-5118) · [github.com/gamze-kose](https://github.com/gamze-kose)
 
 **Prof. Dr. Utku Köse**, Department of Computer Engineering and Artificial Intelligence Application and Research Center, Süleyman Demirel University; University of North Dakota; Universidad Panamericana; VelTech University. [ORCID 0000-0002-9652-6415](https://orcid.org/0000-0002-9652-6415) · [utkukose.com](https://utkukose.com) · [github.com/utkukose](https://github.com/utkukose)
 
