@@ -39,7 +39,7 @@ The user chooses a country, a type and size of crisis, a year and a development 
 
 **Over 20 years, preparation matters more than new buildings.** By 2047, domestic demand for hospital beds is 31% above 2024. The share admitted in conflict is then 75% on the current course, 82% on a planned expansion and 93% on an ambitious programme. Most of this gain comes from preparing the national response, and new units in small provinces add little.
 
-The results compare options under stated assumptions. They are not forecasts and must not guide decisions about individual patients.
+The results compare options under stated assumptions and must not guide decisions about individual patients.
 
 ## Using the simulator
 
