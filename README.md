@@ -1,4 +1,4 @@
-<h1 align="center">Türkiye Health Tourism Surge Capacity Simulator</h1>
+<h1 align="center">Türkiye Health Tourism Surge Capacity Simulator</h1> 
 
 <p align="center">
   <strong>Province-level scenarios of how much of the care created by epidemics, disasters and armed conflicts abroad Türkiye's health tourism infrastructure could provide, from 2027 to 2047.</strong><br>
