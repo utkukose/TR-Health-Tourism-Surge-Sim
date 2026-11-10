@@ -202,7 +202,7 @@ The list gives the peer-reviewed articles, official publications and datasets th
 
 ## Authors
 
-**Gamze Köse**, Independent Researcher, MSc in Health Tourism. [ORCID 0000-0003-1225-5118](https://orcid.org/0000-0003-1225-5118) · [github.com/gamze-kose](https://github.com/gamze-kose)
+**Gamze Köse**, Independent Researcher, Health Tourism Master of Science. [ORCID 0000-0003-1225-5118](https://orcid.org/0000-0003-1225-5118) · [github.com/gamze-kose](https://github.com/gamze-kose)
 
 **Prof. Dr. Utku Köse**, Department of Computer Engineering and Artificial Intelligence Application and Research Center, Süleyman Demirel University; University of North Dakota; Universidad Panamericana; VelTech University. [ORCID 0000-0002-9652-6415](https://orcid.org/0000-0002-9652-6415) · [utkukose.com](https://utkukose.com) · [github.com/utkukose](https://github.com/utkukose)
 
